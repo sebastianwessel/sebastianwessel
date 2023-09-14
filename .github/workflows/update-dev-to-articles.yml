@@ -1,4 +1,4 @@
-name: "Update dev.to article list"
+name: 'Update dev.to article list'
 on:
   schedule:
     - cron: '0 0 * * *'
@@ -15,7 +15,7 @@ jobs:
         uses: huantt/article-listing@v1.1.0
         with:
           username: sebastian_wessel
-          limit: 5
+          limit: 10
           template-file: 'README.md.template'
           out-file: 'README.md'
       - name: Commit
