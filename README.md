@@ -30,6 +30,14 @@ Check out my articles on [dev.to](https://dev.to/sebastian_wessel) 🔖📖📚�
 
 <table>
         <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--4cBUSL8c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6zzcqjj5v7lada2p9672.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/sebastian_wessel/how-to-design-a-surrealdb-schema-and-create-a-basic-client-for-typescript-o6o">How to Design a SurrealDB schema and create a basic...</a>
+                <div>In the midst of a dynamic landscape of exciting new projects, one name shines bright —...</div>
+                <div><i>17/09/2023</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/purista/purista-tests-with-jest-sinonjs-and-testcontainers-31lh">PURISTA - Tests with Jest, Sinon.js and Testcontainers</a>
@@ -99,14 +107,6 @@ Check out my articles on [dev.to](https://dev.to/sebastian_wessel) 🔖📖📚�
                 <a href="https://dev.to/sebastian_wessel/one-more-thing-apples-push-on-web-apps-on-macos-2052">One more thing - Apple&#39;s push on web apps on...</a>
                 <div>The Conclusion of WWDC2023 Keynote: Apple&#39;s Unexpected Emphasis on Websites and Web Apps on...</div>
                 <div><i>05/06/2023</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ADRfLqKZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h9ix2iix7sqbjirkv236.jpg" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/sebastian_wessel/the-need-for-a-new-backend-framework-81g">The need for a new backend framework</a>
-                <div>Building software fast, focused on business requirements, in a cost-efficient way without losing options for the future</div>
-                <div><i>03/06/2023</i></div>
             </td>
         </tr>
 </table>
