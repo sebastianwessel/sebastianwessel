@@ -9,8 +9,7 @@ A passionate, full-time typescript/javascript developer who is working as a free
 |---|---|
 | Welcome to the BuildOwn.AI repository, your companion for the book. Here, you'll find all the code snippets and examples from the book, organized for easy reference and use. | [![BuildOwn.AI](book.png)](https://buildown.ai) |
 | [BuildOwn.AI](https://buildown.ai) | [Get The Book](https://buildown.ai/book/buy) |
-| 🔭 I’m currently working on: PURISTA -
-THE TYPESCRIPT BACKEND FRAMEWORK|  |
+| 🔭 I’m currently working on: PURISTA - THE TYPESCRIPT BACKEND FRAMEWORK |  |
 | [purista.dev](https://github.com/puristajs/purista) |  |
 
 
