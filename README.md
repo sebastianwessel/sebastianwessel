@@ -11,6 +11,8 @@ A passionate, full-time typescript/javascript developer who is working as a free
 | **[BuildOwn.AI](https://buildown.ai)** | [Get The Book](https://buildown.ai/book/buy) |
 | **PURISTA** - THE TYPESCRIPT BACKEND FRAMEWORK | [purista.dev](https://github.com/puristajs/purista) |
 | **SurrealDB Generator** - Client & Zod Schema | [surrealdb-client-generator](https://github.com/sebastianwessel/surrealdb-client-generator) |
+| **QuickJS** - QuickJS based JavaScript sandbox in webassembly | [quickjs](https://github.com/sebastianwessel/quickjs) |
+
 
 
 ## Freelance projects
