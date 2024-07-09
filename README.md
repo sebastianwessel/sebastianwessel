@@ -5,15 +5,7 @@ A passionate, full-time typescript/javascript developer who is working as a free
 
 ## Opensource projects
 
-|   |   |
-|---|---|
-| A Practical Guide to Understanding and Customizing Large Language Models with RAG and Function Calling | [![BuildOwn.AI](book.png)](https://buildown.ai) |
-| **[BuildOwn.AI](https://buildown.ai)** | [Get The Book](https://buildown.ai/book/buy) |
-| **PURISTA** - THE TYPESCRIPT BACKEND FRAMEWORK | [purista.dev](https://github.com/puristajs/purista) |
-| **SurrealDB Generator** - Client & Zod Schema | [surrealdb-client-generator](https://github.com/sebastianwessel/surrealdb-client-generator) |
-| **QuickJS** - QuickJS based JavaScript sandbox in webassembly | [quickjs](https://github.com/sebastianwessel/quickjs) |
-
-
+🔭 I’m currently working on [PURISTA](https://github.com/sebastianwessel/purista).  
 
 ## Freelance projects
 
@@ -38,7 +30,47 @@ Check out my articles on [dev.to](https://dev.to/sebastian_wessel) 🔖📖📚�
 
 <table>
         <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--4cBUSL8c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6zzcqjj5v7lada2p9672.png" alt="thumbnail"></td>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/sebastian_wessel/conclusion-on-using-a-quickjs-sandbox-2gm3">Conclusion on using a QuickJS sandbox</a>
+                <div>Creating the QuickJS package has been a journey in addressing real needs I&#39;ve encountered in my...</div>
+                <div><i>07/07/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjujoa139e97kokjjudlz.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/sebastian_wessel/running-tests-inside-quickjs-with-testrunner-gk5">Running Tests Inside QuickJS with TestRunner</a>
+                <div>The TestRunner is a lightweight testing library that allows you to write and run tests for JavaScript...</div>
+                <div><i>07/07/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frxds2j2dq7gllk24favi.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/sebastian_wessel/secure-data-transformation-in-etl-pipelines-1o94">Secure Data Transformation in ETL Pipelines</a>
+                <div>One particularly powerful use case for the QuickJS package is in the realm of data pipelines and ETL...</div>
+                <div><i>07/07/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fclb28x2ha42oapagsc8g.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/sebastian_wessel/empowering-ai-the-quickjs-package-for-llm-tool-calling-n1o">Empowering AI: The QuickJS Package for LLM Tool Calling</a>
+                <div>As AI continues to evolve, the ability to safely execute code becomes increasingly important. The...</div>
+                <div><i>07/07/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjdaeu5mrkdbx5kjariof.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/sebastian_wessel/execute-javascript-in-a-webassembly-quickjs-sandbox-14nn">Execute JavaScript in a WebAssembly QuickJS Sandbox</a>
+                <div>Typescript QuickJS Package: Empowering Secure JavaScript Execution in AI and Beyond   As an...</div>
+                <div><i>07/07/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6zzcqjj5v7lada2p9672.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/sebastian_wessel/how-to-design-a-surrealdb-schema-and-create-a-basic-client-for-typescript-o6o">How to Design a SurrealDB schema and create a basic...</a>
                 <div>In the midst of a dynamic landscape of exciting new projects, one name shines bright —...</div>
@@ -75,46 +107,6 @@ Check out my articles on [dev.to](https://dev.to/sebastian_wessel) 🔖📖📚�
                 <a href="https://dev.to/sebastian_wessel/surrealdb-improve-data-integrity-by-adding-schema-information-3ee3">SurrealDB - Improve data integrity by adding schema information</a>
                 <div>In the concluding chapter of this series, we&#39;ll delve into the intriguing world of SurrealDB&#39;s schema...</div>
                 <div><i>08/09/2023</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/sebastian_wessel/surrealdb-query-and-combine-data-via-relations-5863">SurrealDB - Query and combine data via relations</a>
-                <div>In the previous article of this series, we set up the foundation and added some sample data.  Now,...</div>
-                <div><i>08/09/2023</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/sebastian_wessel/surrealdb-structuring-data-for-multi-tenant-role-permission-systems-4hmb">SurrealDB - Structuring Data for Multi-Tenant Role &amp; Permission Systems</a>
-                <div>Let&#39;s dive into the vision of what we&#39;re aiming to create.  Our goal is to develop a versatile...</div>
-                <div><i>08/09/2023</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/sebastian_wessel/surrealdb-the-magic-database-to-keep-on-your-radar-4a22">SurrealDB  - The Magic Database to Keep on Your Radar</a>
-                <div>As a TypeScript backend developer, I&#39;ve been juggling various projects, and one particular challenge...</div>
-                <div><i>08/09/2023</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--nY77egYO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/06e1tyna80i5qcjh2qst.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/sebastian_wessel/bun-10-javascript-meets-speed-of-light-4hfn">Bun 1.0 - JavaScript meets speed of light</a>
-                <div>Yesterday, version 1.0 of Bun was officially unveiled, and now it&#39;s here, ready for use.  This marks...</div>
-                <div><i>07/09/2023</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Q83K376m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nidr9zlgkeopofqg2fgt.jpg" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/sebastian_wessel/one-more-thing-apples-push-on-web-apps-on-macos-2052">One more thing - Apple&#39;s push on web apps on...</a>
-                <div>The Conclusion of WWDC2023 Keynote: Apple&#39;s Unexpected Emphasis on Websites and Web Apps on...</div>
-                <div><i>05/06/2023</i></div>
             </td>
         </tr>
 </table>
