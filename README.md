@@ -5,7 +5,10 @@ A passionate, full-time typescript/javascript developer who is working as a free
 
 ## Opensource projects
 
-🔭 I’m currently working on [PURISTA](https://github.com/sebastianwessel/purista).  
+Besides the stuff in my repository, feel free to check out my other projects:
+
+🔭 I’m currently working on **[PURISTA](https://github.com/sebastianwessel/purista)**.
+📒 Check out my e-book **[Build Your OWn AI](https://buildown.ai)**.
 
 ## Freelance projects
 
